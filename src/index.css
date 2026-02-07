@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-govBackground text-slate-50 antialiased;
+  background-image: radial-gradient(circle at top left, rgba(56, 189, 248, 0.15), transparent 55%),
+    radial-gradient(circle at top right, rgba(249, 115, 22, 0.18), transparent 55%),
+    radial-gradient(circle at bottom, rgba(16, 185, 129, 0.18), transparent 55%);
+}
+
+a {
+  @apply text-sky-300 hover:text-sky-200;
+}
+
+@keyframes soft-float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes slow-pulse-border {
+  0% {
+    box-shadow: 0 0 0 0 rgba(234, 179, 8, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 12px rgba(234, 179, 8, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(234, 179, 8, 0);
+  }
+}
+
+.hero-glow {
+  animation: slow-pulse-border 2600ms ease-out infinite;
+}
+
+.card-float {
+  animation: soft-float 5200ms ease-in-out infinite;
+}

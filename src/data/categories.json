@@ -1,0 +1,6 @@
+[
+  { "id": "all", "title": "All", "type": "All" },
+  { "id": "citizen", "title": "Citizen", "type": "Citizen" },
+  { "id": "government", "title": "Government", "type": "Government" },
+  { "id": "tourist", "title": "Tourist", "type": "Tourist" }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "svc-pan-apply",
+    "title": "Apply for PAN Card",
+    "description": "Online application service for Permanent Account Number (PAN) for individuals and entities.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 18,
+      "maxIncome": null,
+      "states": [],
+      "categories": []
+    },
+    "officialLink": "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html",
+    "tags": ["identity", "tax", "citizen"],
+    "lastUpdated": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "svc-passport-seva",
+    "title": "Passport Seva",
+    "description": "Online passport application, appointment booking and related citizen services.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 0,
+      "maxIncome": null,
+      "states": [],
+      "categories": []
+    },
+    "officialLink": "https://www.passportindia.gov.in/",
+    "tags": ["travel", "identity", "citizen"],
+    "lastUpdated": "2025-11-15T00:00:00Z"
+  },
+  {
+    "id": "svc-visa-e-visa",
+    "title": "e-Visa for Foreign Nationals",
+    "description": "Electronic visa facility for foreign nationals visiting India for tourism, business or medical purposes.",
+    "category": "Tourist",
+    "eligibilityRules": {
+      "minAge": 0,
+      "maxIncome": null,
+      "states": [],
+      "categories": []
+    },
+    "officialLink": "https://indianvisaonline.gov.in/evisa",
+    "tags": ["visa", "tourist", "international"],
+    "lastUpdated": "2025-10-10T00:00:00Z"
+  },
+  {
+    "id": "svc-digi-locker",
+    "title": "DigiLocker Digital Documents",
+    "description": "Access and store digital versions of important documents issued by government departments and agencies.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 18,
+      "maxIncome": null,
+      "states": [],
+      "categories": []
+    },
+    "officialLink": "https://www.digilocker.gov.in/",
+    "tags": ["digital", "documents", "citizen"],
+    "lastUpdated": "2026-01-20T00:00:00Z"
+  },
+  {
+    "id": "svc-umang-app",
+    "title": "UMANG Unified Mobile App",
+    "description": "Single mobile app to access multiple central and state government services at one place.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 0,
+      "maxIncome": null,
+      "states": [],
+      "categories": []
+    },
+    "officialLink": "https://web.umang.gov.in/",
+    "tags": ["mobile", "digital", "services"],
+    "lastUpdated": "2026-01-05T00:00:00Z"
+  }
+]

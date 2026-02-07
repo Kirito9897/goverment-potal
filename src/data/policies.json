@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pol-digital-india",
+    "title": "Digital India Programme",
+    "description": "Flagship programme to transform India into a digitally empowered society and knowledge economy.",
+    "category": "Government",
+    "eligibilityRules": {
+      "minAge": null,
+      "maxAge": null,
+      "minIncome": null,
+      "maxIncome": null,
+      "states": [],
+      "categories": [],
+      "targetGroups": []
+    },
+    "officialLink": "https://digitalindia.gov.in/",
+    "tags": ["digital", "governance", "infrastructure"],
+    "lastUpdated": "2025-08-01T00:00:00Z"
+  },
+  {
+    "id": "pol-tourism-policy",
+    "title": "National Tourism Policy (Draft)",
+    "description": "Policy framework to promote sustainable and inclusive tourism across India.",
+    "category": "Tourist",
+    "eligibilityRules": {
+      "minAge": null,
+      "maxAge": null,
+      "minIncome": null,
+      "maxIncome": null,
+      "states": [],
+      "categories": [],
+      "targetGroups": []
+    },
+    "officialLink": "https://tourism.gov.in/",
+    "tags": ["tourism", "policy", "sustainability"],
+    "lastUpdated": "2025-07-15T00:00:00Z"
+  },
+  {
+    "id": "pol-national-education-policy",
+    "title": "National Education Policy 2020",
+    "description": "Comprehensive framework for school and higher education aimed at universal access, equity and promoting multidisciplinary learning.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": null,
+      "maxAge": null,
+      "minIncome": null,
+      "maxIncome": null,
+      "states": [],
+      "categories": [],
+      "targetGroups": []
+    },
+    "officialLink": "https://www.education.gov.in/hi/nep-new",
+    "tags": ["education", "policy", "students"],
+    "lastUpdated": "2026-01-10T00:00:00Z"
+  },
+  {
+    "id": "pol-national-health-policy",
+    "title": "National Health Policy",
+    "description": "Framework to achieve universal access to good quality health care services without any financial hardship.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": null,
+      "maxAge": null,
+      "minIncome": null,
+      "maxIncome": null,
+      "states": [],
+      "categories": [],
+      "targetGroups": []
+    },
+    "officialLink": "https://www.mohfw.gov.in/",
+    "tags": ["health", "policy", "public health"],
+    "lastUpdated": "2025-12-20T00:00:00Z"
+  }
+]

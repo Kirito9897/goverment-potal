@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sch-pm-kisan",
+    "title": "PM-KISAN Samman Nidhi",
+    "description": "Income support of ₹6,000 per year in three installments to all farmer families owning cultivable land.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 18,
+      "maxAge": null,
+      "minIncome": null,
+      "maxIncome": 250000,
+      "states": [],
+      "categories": [],
+      "targetGroups": ["farmer"]
+    },
+    "officialLink": "https://pmkisan.gov.in/",
+    "tags": ["farmer", "income support", "rural"],
+    "lastUpdated": "2025-11-01T00:00:00Z"
+  },
+  {
+    "id": "sch-pm-awaas-yojana-urban",
+    "title": "Pradhan Mantri Awas Yojana - Urban",
+    "description": "Housing for all in urban areas through financial assistance to eligible beneficiaries.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 18,
+      "maxAge": null,
+      "minIncome": null,
+      "maxIncome": 1800000,
+      "states": [],
+      "categories": [],
+      "targetGroups": ["urban poor", "EWS", "LIG", "MIG"]
+    },
+    "officialLink": "https://pmay-urban.gov.in/",
+    "tags": ["housing", "urban", "subsidy"],
+    "lastUpdated": "2025-10-20T00:00:00Z"
+  },
+  {
+    "id": "sch-nsp-post-matric",
+    "title": "National Scholarship Portal - Post Matric Scholarships",
+    "description": "Central sector scholarships for SC, ST, OBC and minority students pursuing post-matric education.",
+    "category": "Citizen",
+    "eligibilityRules": {
+      "minAge": 15,
+      "maxAge": 35,
+      "minIncome": null,
+      "maxIncome": 250000,
+      "states": [],
+      "categories": ["SC", "ST", "OBC", "Minority"],
+      "targetGroups": ["student"]
+    },
+    "officialLink": "https://scholarships.gov.in/",
+    "tags": ["education", "scholarship", "students"],
+    "lastUpdated": "2025-09-30T00:00:00Z"
+  }
+]

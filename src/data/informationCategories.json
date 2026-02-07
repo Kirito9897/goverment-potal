@@ -1,0 +1,33 @@
+[
+  {
+    "id": "cat-agri",
+    "title": "Agriculture, Rural & Environment",
+    "description": "Agriculture is central to India's economy, particularly in rural areas."
+  },
+  {
+    "id": "cat-welfare",
+    "title": "Benefits & Social Development",
+    "description": "Information on citizen welfare programmes and social development."
+  },
+  {
+    "id": "cat-business",
+    "title": "Business & Self-employment",
+    "description": "Business services, entrepreneurship, compliance and support programmes."
+  },
+  {
+    "id": "cat-passport",
+    "title": "Citizenship, Visa & Passports",
+    "description": "Travel documents, citizenship, visa and passport related services."
+  },
+  {
+    "id": "cat-defence",
+    "title": "Defence & Foreign Affairs",
+    "description": "Key information on defence services and foreign affairs."
+  },
+  {
+    "id": "cat-transport",
+    "title": "Driving & Transport",
+    "description": "Driving, transport, licences and related citizen services."
+  }
+]
+
